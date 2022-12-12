@@ -9366,7 +9366,7 @@
             id: "navbar",
             children: [
               (0, r.jsx)("img", {
-                src: "data:image/png;base64,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",
+                src: "logo192.png",
                 alt: "logo",
               }),
               !1 === t && !0 === o
@@ -9536,7 +9536,7 @@
             ],
           });
         },
-        x = t.p + "C:\My Web Sites\cv sample1\vinayakdhaybar-ruddy.vercel.app\static\media\profile_pic.png",
+        x = t.p + "profile_pic.jpg",
         S = function () {
           return (0, r.jsxs)("div", {
             id: "about",
@@ -9636,7 +9636,7 @@
             children: [
               (0, r.jsxs)("header", {
                 children: [
-                  (0, r.jsx)("p", { children: "Notewrothey Projects" }),
+                  (0, r.jsx)("p", { children: "Upcoming Projects" }),
                   (0, r.jsx)("p", { children: "web development & designs" }),
                 ],
               }),
@@ -9789,7 +9789,7 @@
                     ],
                   }),
                   (0, r.jsx)("a", {
-                    href: "mailto:skr160499@gmail.com",
+                    href: "https://www.linkedin.com/in/suresh-kumar-77a972152/",
                     target: "blank",
                     children: (0, r.jsx)("button", { children: "Say Hello" }),
                   }),
