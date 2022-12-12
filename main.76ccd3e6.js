@@ -9607,29 +9607,7 @@
             ],
           });
         },
-        C = JSON.parse(
-          '{"q":[{"title":"Getfit - The Fitness Club","description":"This is a simple website I created for a fitness club. In which you will get detailed information about the gym such as pricing and services.","technology":["React","CSS"],"gitlink":"https://github.com/vinayakdhaybar09/Getfit","url":"https://getfit-zeta.vercel.app/"},{"title":"Cryptoview","description":"This is a crypto tracker website. Here you will find detailed information about all the crypto coins such as prices, price history chart, market cap, and currency conversion.","technology":["React","Chakra UI"],"gitlink":"https://github.com/vinayakdhaybar09/Cryptoview","url":"https://cryptoview-iota.vercel.app/"},{"title":"Madara - The boutique","description":"Madara is a boutique website. You can find a wide variety of female dresses here.","technology":["HTML","CSS"],"gitlink":"https://github.com/vinayakdhaybar09?tab=repositories","url":"madara-n2rwreubs-vinayakdhaybar09.vercel.app"},{"title":"Apple watch interface","description":"With the help of Figma, I designed an Apple Watch interface. Smooth-Fresh-Attractive","technology":["Figma"],"gitlink":"https://www.linkedin.com/posts/vinayak-dhaybar-8563121b0_uxdesign-ui-ux-activity-7000449599786110976-NDOa?utm_source=share&utm_medium=member_desktop","url":"https://www.figma.com/proto/klHP9hQbe68FqUXpvbEehH/Untitled?page-id=19%3A211&node-id=19%3A297&viewport=137%2C327%2C0.1&scaling=scale-down&starting-point-node-id=19%3A241"}]}'
-        );
-      function E(e) {
-        return f({
-          tag: "svg",
-          attr: { viewBox: "0 0 24 24" },
-          child: [
-            {
-              tag: "g",
-              attr: { id: "Folder_On", dataName: "Folder On" },
-              child: [
-                {
-                  tag: "path",
-                  attr: {
-                    d: "M19.435,19.94H4.565a2.5,2.5,0,0,1-2.5-2.5V6.56a2.5,2.5,0,0,1,2.5-2.5h5.27A2.5,2.5,0,0,1,12.292,6.1l.042.222a.5.5,0,0,0,.491.408h6.61a2.5,2.5,0,0,1,2.5,2.5v8.21A2.5,2.5,0,0,1,19.435,19.94ZM4.565,5.06a1.5,1.5,0,0,0-1.5,1.5V17.44a1.5,1.5,0,0,0,1.5,1.5h14.87a1.5,1.5,0,0,0,1.5-1.5V9.23a1.5,1.5,0,0,0-1.5-1.5h-6.61a1.5,1.5,0,0,1-1.474-1.225l-.042-.221A1.5,1.5,0,0,0,9.835,5.06Z",
-                  },
-                },
-              ],
-            },
-          ],
-        })(e);
-      }
+          
       var _ = function () {
           return (0, r.jsxs)("div", {
             id: "work",
@@ -9666,112 +9644,7 @@
             },
           ],
         })(e);
-      }
-      var z = function () {
-          return (0, r.jsxs)("div", {
-            id: "detailwork",
-            children: [
-              (0, r.jsx)("header", {
-                children: (0, r.jsxs)("h3", {
-                  children: [
-                    "02. ",
-                    (0, r.jsx)("span", {
-                      children: "Some Things I\u2019ve Built",
-                    }),
-                  ],
-                }),
-              }),
-              (0, r.jsxs)("section", {
-                children: [
-                  (0, r.jsx)("aside", {
-                    children: (0, r.jsx)("img", { src: N, alt: "profile" }),
-                  }),
-                  (0, r.jsxs)("main", {
-                    children: [
-                      (0, r.jsx)("p", { children: "Featured Project" }),
-                      (0, r.jsx)("p", { children: "aamango" }),
-                      (0, r.jsxs)("p", {
-                        children: [
-                          "This is the website design I made for a friend of mine who is a big seller of mangoes and ",
-                          (0, r.jsx)("span", {
-                            children: "wants to expand his business online.",
-                          }),
-                          " You can order fresh, juicy mangoes through this app, and they will be ",
-                          (0, r.jsx)("span", { children: "delivered" }),
-                          " to your house.",
-                        ],
-                      }),
-                      (0, r.jsxs)("div", {
-                        children: [
-                          (0, r.jsx)("span", { children: "Figma" }),
-                          (0, r.jsx)("span", { children: "React" }),
-                          (0, r.jsx)("span", { children: "SCSS" }),
-                        ],
-                      }),
-                      (0, r.jsxs)("div", {
-                        children: [
-                          (0, r.jsx)("a", {
-                            href: "https://www.figma.com/proto/N6nTPBJHFlJBEEsp57WD2s/Untitled?page-id=0%3A1&node-id=1%3A2&viewport=92%2C254%2C0.1&scaling=scale-down&starting-point-node-id=1%3A2",
-                            target: "blank",
-                            children: (0, r.jsx)(j, {}),
-                          }),
-                          (0, r.jsx)("a", {
-                            href: "https://www.figma.com/proto/N6nTPBJHFlJBEEsp57WD2s/Untitled?page-id=0%3A1&node-id=1%3A2&viewport=92%2C254%2C0.1&scaling=scale-down&starting-point-node-id=1%3A2",
-                            target: "blank",
-                            children: (0, r.jsx)(y, {}),
-                          }),
-                        ],
-                      }),
-                    ],
-                  }),
-                ],
-              }),
-              (0, r.jsxs)("section", {
-                children: [
-                  (0, r.jsxs)("main", {
-                    children: [
-                      (0, r.jsx)("p", { children: "Featured Project" }),
-                      (0, r.jsx)("p", { children: "upanna" }),
-                      (0, r.jsxs)("p", {
-                        children: [
-                          "This project is based on the ",
-                          (0, r.jsx)("span", {
-                            children: "booming food industry.",
-                          }),
-                          " This is an user side application. where you can place a weekly or monthly subscription order for tiffin.",
-                        ],
-                      }),
-                      (0, r.jsxs)("div", {
-                        children: [
-                          (0, r.jsx)("span", { children: "Figma" }),
-                          (0, r.jsx)("span", { children: "React Native" }),
-                          (0, r.jsx)("span", { children: "Firebase" }),
-                        ],
-                      }),
-                      (0, r.jsxs)("div", {
-                        children: [
-                          (0, r.jsx)("a", {
-                            href: "https://github.com/vinayakdhaybar09/Upanna",
-                            target: "blank",
-                            children: (0, r.jsx)(b, {}),
-                          }),
-                          (0, r.jsx)("a", {
-                            href: "https://www.linkedin.com/posts/vinayak-dhaybar-8563121b0_react-community-linkedin-activity-6988875699948253184--9N8?utm_source=share&utm_medium=member_desktop",
-                            target: "blank",
-                            children: (0, r.jsx)(k, {}),
-                          }),
-                        ],
-                      }),
-                    ],
-                  }),
-                  (0, r.jsx)("aside", {
-                    children: (0, r.jsx)("img", { src: P, alt: "profile" }),
-                  }),
-                ],
-              }),
-            ],
-          });
-        },
+      },
         T = function () {
           return (0, r.jsxs)("div", {
             id: "contact",
@@ -9853,7 +9726,7 @@
               }),
               (0, r.jsx)("section", {
                 children: (0, r.jsx)("a", {
-                  href: "mailto:skr160499@gmail.com",
+                  href: "//www.linkedin.com/in/suresh-kumar-77a972152/",
                   children: "skr160499@gmail.com",
                 }),
               }),
